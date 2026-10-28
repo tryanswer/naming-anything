@@ -25,7 +25,7 @@ Score on these in place of the brand dimensions:
 5. **生命周期 fit**: must work at age 5 (playground), 25 (interview), 60 (tombstone). Over-cute 叠字 or overly archaic characters both fail this.
 6. **国际拼音**: if the family expects international life, the pinyin must survive English mouths (X/Q/Zh/J- initials and -ing/-ang confusion); test the standalone given-name pinyin as an email handle.
 7. **公众人物重名**: flag significant collisions (sharing a name with a notorious or extremely famous figure shapes first impressions you didn't choose).
-8. **五行层 (mandatory for persons)**: grade the full name's element chain against the 喜用神 per `references/wuxing-scoring.md` — traditional practice centers this for person names, so the 五行 line for a person name carries the 生克 reasoning (e.g. 水生木 ✓ 补喜用), not just stars.
+8. **Traditional layer (mandatory for persons)**: run the full stack per `references/traditional-scoring.md` — 字五行 vs 喜用神, 三才五格 stroke numerology, and the name's trigram against the 命卦. Families that practice tradition expect the complete classical treatment; report per-school verdicts side by side (they often disagree) rather than one blended number.
 
 ### Collision & delivery (Stage 4 for persons)
 

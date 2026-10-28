@@ -49,7 +49,7 @@ LLM-assisted naming drifts toward polished-but-interchangeable output — run th
 - **Swap test**: if the name could sit unchanged on a product in a different category, it has no specificity — kill it
 - **Story test**: a survivor must have a tellable 15-second origin story; no story = thesaurus name in disguise
 
-Score each candidate 0–5 per dimension, sum, and rank. Ties break toward the name with the better origin story — a great story with average sound outperforms perfect phonetics with nothing to tell. For Chinese-facing names of persons, businesses, shops, and products, also attach a traditional **五行 grade** per candidate per `references/wuxing-scoring.md` — element chain from form/meaning/strokes, benchmarked against the 喜用神 or industry element. The 五行 stars are reported as a traditional-culture perspective next to the modern score; they never fold into the modern ranking.
+Score each candidate 0–5 per dimension, sum, and rank. Ties break toward the name with the better origin story — a great story with average sound outperforms perfect phonetics with nothing to tell. For Chinese-facing names of persons, businesses, shops, and products, also attach a **traditional metaphysics grade (五行 · 数理 · 八卦)** per candidate per `references/traditional-scoring.md` — character elements benchmarked against the 喜用神 or industry element, 三才五格 stroke numerology, and the name's trigram image, reported per school. All traditional verdicts are a culture-perspective layer next to the modern score; they never fold into the modern ranking.
 
 - **Fluency**: ≤ 3 syllables, tonal variation in Chinese, no ambiguous liaison; mentally say it aloud three times
 - **Sound symbolism**: do the phonemes match the intended feel? Plosives (t/k/p) read fast and precise — Stripe; soft sonorants (l/m/n) read warm and friendly
@@ -75,7 +75,7 @@ Deliver, per name:
 > **中文名 / English name**
 > Rationale (1 line)
 > Risk note: collision grade with what was actually searched (never a bare "clean" from shallow sampling); human follow-ups named where applicable
-> 五行：element chain · benchmark verdict · stars (traditional layer, when it applies)
+> 传统：五行 / 三才 / 81数理 / 卦象 ·stars (traditional-culture layer, when it applies — per-school verdicts, per `references/traditional-scoring.md`)
 > Tagline fitting the "XX，让 YY 更 ZZ" pattern in the object's primary language
 
 Close with the No.1 recommendation and its reasoning, plus a reminder that trademark filing, domains, and app-store collisions require human verification.
