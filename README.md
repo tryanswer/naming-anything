@@ -72,10 +72,10 @@ The skill is a plain directory; point your agent's skill loader at it:
 
 ```bash
 # into a user-level skills directory
-git clone git@github.com:tryanswer/naming-anything.git <your-skills-dir>/naming
+git clone git@github.com:tryanswer/naming-anything.git <your-skills-dir>/naming-anything
 
 # or into a project's skills directory
-git clone git@github.com:tryanswer/naming-anything.git <your-project>/.claude/skills/naming
+git clone git@github.com:tryanswer/naming-anything.git <your-project>/.claude/skills/naming-anything
 ```
 
 Any agent that scans a skills directory for `SKILL.md` (Claude Code, Codex, and other Agent-Skills-compatible harnesses) will pick it up; invoke it by describing a naming challenge or by the skill's name directly.

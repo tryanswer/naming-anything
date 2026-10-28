@@ -1,9 +1,9 @@
 ---
-name: naming
+name: naming-anything
 description: Naming engine for anything — apps, products, companies, open-source projects, events, pets, IPs, columns. Use when the user asks to name or rename something, brainstorm name candidates, or critique an existing name. Triggers include "起名", "取名", "命名", "想名字", "给 XX 起个名/名字", "name ideas", "brainstorm names", "naming", "rename". Delivers Chinese-English paired candidates by default.
 ---
 
-# Naming
+# Naming Anything
 
 Core equation: **a name is compressed positioning** — it must work as a signal (hints what the thing is), a hook (easy to say, picture, and remember), and an asset (ownable and legally defensible). Professional naming runs four stages: **Discovery → Ideation → Validation → Selection**. Never skip a stage or pick a finalist on gut feel.
 
