@@ -1,5 +1,10 @@
 # naming-anything
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-3fb950.svg)](LICENSE)
+[![Type: Agent Skill](https://img.shields.io/badge/type-Agent_Skill-8957e5.svg)](https://github.com/anthropics/skills)
+[![传统层：五行 · 三才五格 · 八卦](https://img.shields.io/badge/传统层-五行_·_三才五格_·_八卦-db6d28.svg)](#4-traditional-chinese-scoring-layer-五行--三才五格--八卦)
+[![GitHub stars](https://img.shields.io/github/stars/tryanswer/naming-anything.svg?style=flat&color=ff8c42)](https://github.com/tryanswer/naming-anything/stargazers)
+
 > An Agent Skill for naming anything — apps, products, companies, open-source projects, offline shops, events, pets, IPs, and people — through a professional four-stage pipeline, with bilingual (Chinese-English) output, trademark-aware scoring, a graded collision screen (查重), and an optional traditional Chinese metaphysics layer (**五行 · 三才五格 · 八卦**).
 
 Packaged as an Agent Skill (the open `SKILL.md` convention): any agent that loads skills from a skills directory can use it, unmodified.
