@@ -98,7 +98,38 @@ scripts/check-availability.sh <candidate-name>
 - Every delivery states what was actually searched versus judged from prior knowledge, and names the remaining human steps (trademark registries, store submission checks, domain purchase, 全国同名查询 for person names)
 - A "clean" from shallow sampling is never reported as "verified available"
 
-## 8. Credits & References
+## 8. Case Studies — Names Decoded
+
+### Quick decodes (method → spectrum → lesson)
+
+| Name | Method | Spectrum position | The lesson it teaches |
+|---|---|---|---|
+| 抖音 / TikTok | Wordplay + onomatopoeia | Suggestive | The name snapshots the launch killer feature (music-sync shake); going global, TikTok is a *decoupled* sound-native coinage, not a translation — the CN-EN split is the masterstroke |
+| 汽水音乐 / Soda Music | Metaphor | Arbitrary | "Music as soda" compresses the whole strategic posture (light, zero-burden listening) into four characters; the appended category word is an honest, searchable compromise |
+| 茶颜悦色 | Idiom modification (和颜悦色 → 茶颜悦色) | Suggestive | Preloaded familiarity + category signal in one edit; the 茶颜观色 squatting war is the standing lesson on near-variant defensive registration |
+| 拼多多 | Wordplay + reduplication | Suggestive | Reduplication lowers conversational guards, and the name carries its own jingle ("拼得多，省得多") |
+| Apple | Arbitrary real word | Arbitrary | Textbook maximum-protectability name — and the standing warning that cross-field collisions "settle accounts": Apple Records (1968) became a 30-year war the moment iTunes entered music |
+| Google | Coined (accidental misspelling of googol) | Fanciful | The misspelling created perfect ownability and a tellable story — and it's the honest exception: it would fail today's slop filter, so the filter is a sieve, not a constitution |
+| Spotify | Coined, storyless | Fanciful | No romantic origin at all — a winning product carried an average name. Survivorship warning: never grade a giant's name as proof of method |
+| Twitter → X | — | — | Renaming away a verb-built brand (tweet, retweet) torched a compounding asset — the single most expensive naming decision of the decade |
+
+### Worked example — a real pipeline run (family health-trend app)
+
+Brief → Positioning statement: *make looking after the whole family's health feel like warm companionship, not a burden — every check-up, every year's trend, gently remembered.* Territory mapping: tree rings · lighthouses · hearth-lights and letters home. Seven methods → 21 bilingual pairs. Winner after full screening:
+
+> **年轮 / NianLun** — scored 30/35 across the seven dimensions
+> Rationale: one ring per year — the whole family's health literally grows a visible ring; trend curves and tree rings share a shape
+> Collision grade: CN side clean in shallow search; the EN pair TreeRings was **killed for a cross-field hit** (treering.com, a yearbook company whose brand refresh expands into "memories") → **repaired via the pinyin strategy** (the WeChat/Xiaomi precedent)
+> Beaten for cause: 问安 died on a same-field hit (蓝熙问安, a family-health app); KinWell English pair died on a same-industry hit (Kinwell Health clinic chain) and was repaired to a coined pair
+> Tagline: 「年轮，让全家每一年的健康，都看得见。」
+
+Traditional layer (format illustration — per-school verdicts, never one blended number):
+
+> 传统：字五行 按形/义/数各派判读不一（土/木）· 三才五格 以实际康熙笔画计算 · ★★★☆☆（传统视角，各派侧重不同）
+
+The point of the example: of the top five, two were modified and one killed by the collision screen — which is exactly what screens are for. The ≥ 20-candidate pool exists so kills never shrink the delivery below five.
+
+## 9. Credits & References
 
 - Naming-agency process research: Catchword, WANT Branding (Discovery → Ideation → Validation → Selection), Lexicon (sound symbolism)
 - Legal framework: USPTO Distinctiveness Spectrum; the suggestive sweet spot
@@ -106,7 +137,7 @@ scripts/check-availability.sh <candidate-name>
 - Peer skill benchmark: [glacierphonk/naming](https://github.com/glacierphonk/naming) — metaphor-first ideation, AI-slop kill list, and the bundled-availability-script pattern were absorbed with thanks
 - Case-study facts (喜茶 trademark buyout, 鹿角巷 squatting swarm, 茶颜悦色 near-clone litigation, Spotify's storyless name) verified against public reporting, 2026-10
 
-## 9. Limitations & Disclaimers
+## 10. Limitations & Disclaimers
 
 - An agent's web checks are first-pass sampling; trademark filings, registry searches, and app-store final clearance remain human steps
 - The traditional metaphysics layer is presented as cultural perspective, not verified causation, and never overrides the modern ranking
