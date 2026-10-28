@@ -113,6 +113,17 @@ scripts/check-availability.sh <candidate-name>
 | Spotify | Coined, storyless | Fanciful | No romantic origin at all — a winning product carried an average name. Survivorship warning: never grade a giant's name as proof of method |
 | Twitter → X | — | — | Renaming away a verb-built brand (tweet, retweet) torched a compounding asset — the single most expensive naming decision of the decade |
 
+### Five-element readings of the same names (traditional layer, worked)
+
+Applying the skill's three-school procedure — form → meaning → Kangxi-stroke fallback; industry as the benchmark for brands:
+
+- **抖音** — 数理层：抖(康熙 8 画 → 金) 生 音(9 画 → 水)，金水相生链；字义层：抖字主惊动、象火，与娱乐行业之火同气。两层各执一词，正需分派并列。★★★★☆（传统视角）
+- **汽水音乐** — 汽、水皆水部，双水当头；音(9)水、樂(15)土土承之。饮品行业属水，名即行业之气，读象纯厚。★★★★★（传统视角）
+- **茶颜悦色** — 茶(艹部 → 木，数理 12 → 2 又得木，双重锚定)起手立品类；然颜(18 → 金)、悦(兑金)两金续之，金克木，传统读象认为木气受制 —— 名成而气局相战，恰与其商标战缠身的现实互为注脚。★★★☆☆（传统视角）
+- **谷歌** (Google 官方中文名) — 谷(7) + 歌(14) = 总格 **21，「明月中光」吉数**。巧的是，本仓库实战案例「年轮」的总格也是 21（见下）——两个名字撞在同一个吉数上。
+
+> Note: published 起名 dictionaries sometimes assign a character differently from the stroke-fallback rule above (e.g. dictionaries commonly assign 抖→火 while strokes give 金). That disagreement is inherent to the tradition, which is exactly why the skill reports per school and never blends the verdicts. English-only brands (Apple, Spotify, Twitter) skip this layer unless an established Chinese name exists.
+
 ### Worked example — a real pipeline run (family health-trend app)
 
 Brief → Positioning statement: *make looking after the whole family's health feel like warm companionship, not a burden — every check-up, every year's trend, gently remembered.* Territory mapping: tree rings · lighthouses · hearth-lights and letters home. Seven methods → 21 bilingual pairs. Winner after full screening:
@@ -123,9 +134,12 @@ Brief → Positioning statement: *make looking after the whole family's health f
 > Beaten for cause: 问安 died on a same-field hit (蓝熙问安, a family-health app); KinWell English pair died on a same-industry hit (Kinwell Health clinic chain) and was repaired to a coined pair
 > Tagline: 「年轮，让全家每一年的健康，都看得见。」
 
-Traditional layer (format illustration — per-school verdicts, never one blended number):
+Traditional layer, actually computed per school (年轮, the health-care industry reading as 木 for 生机/护养):
 
-> 传统：字五行 按形/义/数各派判读不一（土/木）· 三才五格 以实际康熙笔画计算 · ★★★☆☆（传统视角，各派侧重不同）
+> 传统：**字义派** — 年轮者，树之生长记录，全名意象属木，与养生照护之木同气 → ★★★★★
+> **数理派** — 年(6) + 輪(15) = 总格 21，「明月中光」吉数；三才以实际康熙笔画起局
+> **八卦** — 总 21 ÷ 8 余 5 → **巽卦（风、木）**——卦象与名字的树木意象、与行业之木三者同气
+> ★★★★★（传统视角，各派侧重不同；若按简体笔画计，轮 8 画 → 总 14 → 坎卦，结论即变——这正是传统层按派并列、绝不混算的原因）
 
 The point of the example: of the top five, two were modified and one killed by the collision screen — which is exactly what screens are for. The ≥ 20-candidate pool exists so kills never shrink the delivery below five.
 
